@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkimerena" alt="nikkimerena" /></a> </p>
 
-- 🔭 I’m currently working on [React inline styling](https://github.com/NikkiMerena/atlas-web_react.git)
+- 🔭 I’m currently working on [Atlas-web_dart](https://github.com/NikkiMerena/atlas-web_dart.git)
 
 - 🌱 I’m currently learning **React, Aphrodite, Inline styling, Enzyme Render, Enzyme Prop, CSS Viewport, CSS Media queries, CSS Animations.**
 
