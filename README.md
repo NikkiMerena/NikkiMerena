@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Atlas-web_dart](https://github.com/NikkiMerena/atlas-web_dart.git)
 
-- 🌱 I’m currently learning **React, Aphrodite, Inline styling, Enzyme Render, Enzyme Prop, CSS Viewport, CSS Media queries, CSS Animations.**
+- 🌱 I’m currently learning **Dart: Syntax, Condistions, Loops, MapI, Iterables Collections.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikkiMerena](https://github.com/NikkiMerena)
 
