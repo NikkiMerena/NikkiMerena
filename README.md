@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkimerena" alt="nikkimerena" /></a> </p>
 
-- 🔭 I’m currently working on [Atlas-web_dart](https://github.com/NikkiMerena/atlas-web_dart.git)
+- 🔭 I’m currently working on My CapStone project! My team and I are building an AI chatbot assistant for a HR company! More details to come!
 
 - 🌱 I’m currently learning **Dart: Syntax, Condistions, Loops, MapI, Iterables Collections.**
 
